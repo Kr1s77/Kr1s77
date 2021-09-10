@@ -10,4 +10,4 @@
 如果不能站在巨人的肩膀上，就请把自己变成巨人吧！
 
 ##### 联系我
-Contact e-mail: criselyj@163.com
+邮箱: criselyj@163.com
