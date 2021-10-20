@@ -1,7 +1,7 @@
 
 ##### 你好 👋
 
-我是 Kris，中文名 `一身正气`, 这里是我的博客主页 [📃](https://kr1s77.github.io/)
+我是 Kris， 这里是我的博客主页 [📃](https://kr1s77.github.io/)
 
 最擅长的编程语言是 `Python`，略懂 `Java` `Go` `C++` 希望能为大家带来有趣的东西 🐵
 
